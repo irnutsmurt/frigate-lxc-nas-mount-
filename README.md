@@ -2,7 +2,7 @@
 
 # Frigate NAS Mount Guide for Proxmox LXC
 
-This guide explains how to mount a NAS share via SMB using CIFS in your Proxmox LXC container running Frigate. You can either follow the manual steps or use our provided bash script to automate much of the process.
+This guide explains how to mount a NAS share via SMB using CIFS in your Proxmox LXC container running Frigate. You can either follow the manual steps or use the provided bash script to automate much of the process.
 
 ---
 
